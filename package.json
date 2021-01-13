@@ -1,0 +1,11 @@
+{
+  "name": "jlearn",
+  "scripts": {
+    "start": "node-dev janus.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.20",
+    "ws": "^7.4.2"
+  }
+}
